@@ -11117,7 +11117,7 @@
       "branchName": "פועלים INVEST פתח תקוה",
       "branchAddress": "חובבי ציון 1 ",
       "city": "פתח תקווה",
-      "zip": "",
+      "zip": "4936201",
       "postCode": "",
       "phone": "*2714",
       "fax": "",
@@ -11139,7 +11139,7 @@
       "branchName": "פועלים INVEST חיפה",
       "branchAddress": "הנביאים 18 ",
       "city": "חיפה",
-      "zip": "",
+      "zip": "3350121",
       "postCode": "",
       "phone": "*2714",
       "fax": "",
@@ -16447,7 +16447,7 @@
       "fax": "",
       "freePhone": "",
       "accessForDisabled": "לא",
-      "closedDay": "יום א",
+      "closedDay": "יום ו",
       "type": "רגיל",
       "openDate": "01/01/1949",
       "closingDate": "",
@@ -17663,7 +17663,7 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "34.899996",
+      "xCoordinate": "34.9",
       "yCoordinate": "31.965243"
     },
     {
@@ -17685,7 +17685,7 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "34.899996",
+      "xCoordinate": "34.9",
       "yCoordinate": "31.965243"
     },
     {
@@ -17781,7 +17781,7 @@
       "bankName": "13001-בנק אגוד לישראל בע\"מ",
       "branchCode": "148",
       "branchName": "רימונים בני ברק",
-      "branchAddress": "אהרונוביץ 10 ",
+      "branchAddress": "הירדן 30 ",
       "city": "בני ברק",
       "zip": "5137705",
       "postCode": "",
@@ -18032,7 +18032,7 @@
       "freePhone": "",
       "accessForDisabled": "לא",
       "closedDay": "",
-      "type": "מיוחד",
+      "type": "יחידת ביצוע",
       "openDate": "14/09/2004",
       "closingDate": "",
       "mergeBank": "",
@@ -18054,7 +18054,7 @@
       "freePhone": "",
       "accessForDisabled": "לא",
       "closedDay": "",
-      "type": "מיוחד",
+      "type": "יחידת ביצוע",
       "openDate": "14/09/2004",
       "closingDate": "",
       "mergeBank": "",
@@ -18076,7 +18076,7 @@
       "freePhone": "",
       "accessForDisabled": "לא",
       "closedDay": "",
-      "type": "מיוחד",
+      "type": "יחידת ביצוע",
       "openDate": "14/09/2004",
       "closingDate": "",
       "mergeBank": "",
@@ -18098,7 +18098,7 @@
       "freePhone": "",
       "accessForDisabled": "לא",
       "closedDay": "",
-      "type": "מיוחד",
+      "type": "יחידת ביצוע",
       "openDate": "16/02/1999",
       "closingDate": "",
       "mergeBank": "",
@@ -18147,8 +18147,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.61",
-      "yCoordinate": "35.29"
+      "xCoordinate": "32.611561",
+      "yCoordinate": "35.287449"
     },
     {
       "bankCode": 14,
@@ -18169,8 +18169,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.44",
-      "yCoordinate": "34.92"
+      "xCoordinate": "32.436367",
+      "yCoordinate": "34.917128"
     },
     {
       "bankCode": 14,
@@ -18191,8 +18191,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.48",
-      "yCoordinate": "34.98"
+      "xCoordinate": "32.476005",
+      "yCoordinate": "34.976728"
     },
     {
       "bankCode": 14,
@@ -18213,8 +18213,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.87",
-      "yCoordinate": "34.74"
+      "xCoordinate": "31.866659",
+      "yCoordinate": "34.735907"
     },
     {
       "bankCode": 14,
@@ -18235,8 +18235,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.97",
-      "yCoordinate": "35.55"
+      "xCoordinate": "32.969229",
+      "yCoordinate": "35.550289"
     },
     {
       "bankCode": 14,
@@ -18257,8 +18257,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.15",
-      "yCoordinate": "34.82"
+      "xCoordinate": "32.145877",
+      "yCoordinate": "34.818276"
     },
     {
       "bankCode": 14,
@@ -18279,8 +18279,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.9",
-      "yCoordinate": "35.01"
+      "xCoordinate": "31.900233",
+      "yCoordinate": "35.009057"
     },
     {
       "bankCode": 14,
@@ -18301,8 +18301,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.31",
-      "yCoordinate": "34.87"
+      "xCoordinate": "32.312021",
+      "yCoordinate": "34.870671"
     },
     {
       "bankCode": 14,
@@ -18323,8 +18323,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.07",
-      "yCoordinate": "34.87"
+      "xCoordinate": "32.074236",
+      "yCoordinate": "34.869623"
     },
     {
       "bankCode": 14,
@@ -18345,8 +18345,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.24",
-      "yCoordinate": "34.78"
+      "xCoordinate": "31.240037",
+      "yCoordinate": "34.775904"
     },
     {
       "bankCode": 14,
@@ -18367,8 +18367,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "33.01",
-      "yCoordinate": "35.09"
+      "xCoordinate": "33.006712",
+      "yCoordinate": "35.092426"
     },
     {
       "bankCode": 14,
@@ -18389,8 +18389,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.06",
-      "yCoordinate": "34.77"
+      "xCoordinate": "32.063584",
+      "yCoordinate": "34.774263"
     },
     {
       "bankCode": 14,
@@ -18411,8 +18411,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.06",
-      "yCoordinate": "34.8"
+      "xCoordinate": "32.063827",
+      "yCoordinate": "34.800692"
     },
     {
       "bankCode": 14,
@@ -18433,8 +18433,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.79",
-      "yCoordinate": "35.54"
+      "xCoordinate": "32.788534",
+      "yCoordinate": "35.539448"
     },
     {
       "bankCode": 14,
@@ -18455,8 +18455,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.64",
-      "yCoordinate": "35.09"
+      "xCoordinate": "32.642614",
+      "yCoordinate": "35.091999"
     },
     {
       "bankCode": 14,
@@ -18477,8 +18477,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.08",
-      "yCoordinate": "34.81"
+      "xCoordinate": "32.079294",
+      "yCoordinate": "34.814927"
     },
     {
       "bankCode": 14,
@@ -18521,8 +18521,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.06",
-      "yCoordinate": "34.85"
+      "xCoordinate": "31.058881",
+      "yCoordinate": "34.845233"
     },
     {
       "bankCode": 14,
@@ -18543,8 +18543,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.05",
-      "yCoordinate": "34.85"
+      "xCoordinate": "32.049707",
+      "yCoordinate": "34.850721"
     },
     {
       "bankCode": 14,
@@ -18565,8 +18565,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.19",
-      "yCoordinate": "34.89"
+      "xCoordinate": "32.192003",
+      "yCoordinate": "34.891372"
     },
     {
       "bankCode": 14,
@@ -18587,8 +18587,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.83",
-      "yCoordinate": "34.98"
+      "xCoordinate": "32.834478",
+      "yCoordinate": "34.981453"
     },
     {
       "bankCode": 14,
@@ -18609,8 +18609,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.99",
-      "yCoordinate": "34.77"
+      "xCoordinate": "31.985011",
+      "yCoordinate": "34.768895"
     },
     {
       "bankCode": 14,
@@ -18653,8 +18653,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.2",
-      "yCoordinate": "35.05"
+      "xCoordinate": "31.204999",
+      "yCoordinate": "35.046022"
     },
     {
       "bankCode": 14,
@@ -18675,8 +18675,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.1",
-      "yCoordinate": "35.18"
+      "xCoordinate": "32.104767",
+      "yCoordinate": "35.175582"
     },
     {
       "bankCode": 14,
@@ -18697,8 +18697,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.96",
-      "yCoordinate": "34.81"
+      "xCoordinate": "31.964397",
+      "yCoordinate": "34.805742"
     },
     {
       "bankCode": 14,
@@ -18719,8 +18719,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.89",
-      "yCoordinate": "35.02"
+      "xCoordinate": "31.886737",
+      "yCoordinate": "35.017569"
     },
     {
       "bankCode": 14,
@@ -18741,8 +18741,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.33",
-      "yCoordinate": "34.85"
+      "xCoordinate": "32.33024",
+      "yCoordinate": "34.853898"
     },
     {
       "bankCode": 14,
@@ -18763,8 +18763,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.09",
-      "yCoordinate": "34.97"
+      "xCoordinate": "32.093555",
+      "yCoordinate": "34.973405"
     },
     {
       "bankCode": 14,
@@ -18785,8 +18785,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.68",
-      "yCoordinate": "34.61"
+      "xCoordinate": "31.675059",
+      "yCoordinate": "34.607276"
     },
     {
       "bankCode": 14,
@@ -18807,8 +18807,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.78",
-      "yCoordinate": "34.96"
+      "xCoordinate": "32.784664",
+      "yCoordinate": "34.962384"
     },
     {
       "bankCode": 14,
@@ -18829,8 +18829,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.79",
-      "yCoordinate": "34.64"
+      "xCoordinate": "31.788422",
+      "yCoordinate": "34.641645"
     },
     {
       "bankCode": 14,
@@ -18851,8 +18851,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.09",
-      "yCoordinate": "34.8"
+      "xCoordinate": "32.086396",
+      "yCoordinate": "34.800269"
     },
     {
       "bankCode": 14,
@@ -18873,8 +18873,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.07",
-      "yCoordinate": "34.78"
+      "xCoordinate": "32.069451",
+      "yCoordinate": "34.782509"
     },
     {
       "bankCode": 14,
@@ -18895,8 +18895,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.81",
-      "yCoordinate": "35.05"
+      "xCoordinate": "32.808212",
+      "yCoordinate": "35.054397"
     },
     {
       "bankCode": 14,
@@ -18917,8 +18917,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.24",
-      "yCoordinate": "34.8"
+      "xCoordinate": "31.24434",
+      "yCoordinate": "34.798785"
     },
     {
       "bankCode": 14,
@@ -18939,8 +18939,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.12",
-      "yCoordinate": "34.83"
+      "xCoordinate": "32.121855",
+      "yCoordinate": "34.834879"
     },
     {
       "bankCode": 14,
@@ -18961,8 +18961,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.82",
-      "yCoordinate": "34.82"
+      "xCoordinate": "31.82232",
+      "yCoordinate": "34.819498"
     },
     {
       "bankCode": 14,
@@ -18983,8 +18983,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.83",
-      "yCoordinate": "34.8"
+      "xCoordinate": "31.829968",
+      "yCoordinate": "34.799378"
     },
     {
       "bankCode": 14,
@@ -19005,8 +19005,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.78",
-      "yCoordinate": "35.22"
+      "xCoordinate": "31.780276",
+      "yCoordinate": "35.216931"
     },
     {
       "bankCode": 14,
@@ -19027,8 +19027,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.68",
-      "yCoordinate": "35.2"
+      "xCoordinate": "32.678647",
+      "yCoordinate": "35.204352"
     },
     {
       "bankCode": 14,
@@ -19049,8 +19049,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.05",
-      "yCoordinate": "34.85"
+      "xCoordinate": "32.049706",
+      "yCoordinate": "34.850723"
     },
     {
       "bankCode": 14,
@@ -19093,8 +19093,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.13",
-      "yCoordinate": "34.84"
+      "xCoordinate": "32.134482",
+      "yCoordinate": "34.838482"
     },
     {
       "bankCode": 14,
@@ -19115,8 +19115,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.24",
-      "yCoordinate": "34.66"
+      "xCoordinate": "31.236521",
+      "yCoordinate": "34.657427"
     },
     {
       "bankCode": 14,
@@ -19137,8 +19137,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "29.56",
-      "yCoordinate": "34.95"
+      "xCoordinate": "29.555108",
+      "yCoordinate": "34.952684"
     },
     {
       "bankCode": 14,
@@ -19159,8 +19159,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.07",
-      "yCoordinate": "34.79"
+      "xCoordinate": "32.07444",
+      "yCoordinate": "34.786909"
     },
     {
       "bankCode": 14,
@@ -19181,8 +19181,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.88",
-      "yCoordinate": "34.68"
+      "xCoordinate": "31.88467",
+      "yCoordinate": "34.680168"
     },
     {
       "bankCode": 14,
@@ -19203,8 +19203,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.18",
-      "yCoordinate": "34.91"
+      "xCoordinate": "32.175642",
+      "yCoordinate": "34.908814"
     },
     {
       "bankCode": 14,
@@ -19225,8 +19225,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "30.78",
-      "yCoordinate": "34.67"
+      "xCoordinate": "30.782061",
+      "yCoordinate": "34.666748"
     },
     {
       "bankCode": 14,
@@ -19247,8 +19247,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.02",
-      "yCoordinate": "34.76"
+      "xCoordinate": "32.015337",
+      "yCoordinate": "34.755011"
     },
     {
       "bankCode": 14,
@@ -19269,8 +19269,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.95",
-      "yCoordinate": "34.77"
+      "xCoordinate": "31.95069",
+      "yCoordinate": "34.766291"
     },
     {
       "bankCode": 14,
@@ -19313,8 +19313,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.99",
-      "yCoordinate": "34.77"
+      "xCoordinate": "31.985005",
+      "yCoordinate": "34.768893"
     },
     {
       "bankCode": 14,
@@ -19335,8 +19335,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.9",
-      "yCoordinate": "34.81"
+      "xCoordinate": "31.896828",
+      "yCoordinate": "34.811119"
     },
     {
       "bankCode": 14,
@@ -19357,8 +19357,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "31.8",
-      "yCoordinate": "34.78"
+      "xCoordinate": "31.804513",
+      "yCoordinate": "34.784198"
     },
     {
       "bankCode": 14,
@@ -19379,8 +19379,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.92",
-      "yCoordinate": "35.31"
+      "xCoordinate": "32.921832",
+      "yCoordinate": "35.307154"
     },
     {
       "bankCode": 14,
@@ -19401,8 +19401,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "32.06",
-      "yCoordinate": "34.77"
+      "xCoordinate": "32.063584",
+      "yCoordinate": "34.774263"
     },
     {
       "bankCode": 14,
@@ -19423,8 +19423,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "29.94",
-      "yCoordinate": "34.96"
+      "xCoordinate": "29.942854",
+      "yCoordinate": "34.95795"
     },
     {
       "bankCode": 14,
@@ -19445,8 +19445,8 @@
       "closingDate": "",
       "mergeBank": "31001",
       "mergeBranch": "",
-      "xCoordinate": "30.61",
-      "yCoordinate": "35.19"
+      "xCoordinate": "30.614345",
+      "yCoordinate": "35.18522"
     },
     {
       "bankCode": 17,
@@ -21147,7 +21147,7 @@
       "bankName": "בנק מרכנתיל דיסקונט בע\"מ",
       "branchCode": "732",
       "branchName": "בני ברק",
-      "branchAddress": "כהנמן 64 ",
+      "branchAddress": "כהנמן 107 ",
       "city": "בני ברק",
       "zip": "5154437",
       "postCode": "",
@@ -21161,8 +21161,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "34.840882",
-      "yCoordinate": "32.082497"
+      "xCoordinate": "34.84187",
+      "yCoordinate": "32.079891"
     },
     {
       "bankCode": 17,
@@ -21698,7 +21698,7 @@
       "branchCode": "73",
       "branchName": "שלוחת פרדס חנה (חריש)",
       "branchAddress": "מרכז קבלנים 1 ",
-      "city": "קציר                ",
+      "city": "קציר",
       "zip": "3786100",
       "postCode": "",
       "phone": "076-8046730",
@@ -22907,7 +22907,7 @@
       "bankName": "בנק מזרחי טפחות בע\"מ",
       "branchCode": "456",
       "branchName": "דימונה",
-      "branchAddress": "שד' הנשיא  1 מרכז מסחרי",
+      "branchAddress": "גולדה מאיר 20 ",
       "city": "דימונה",
       "zip": "8603401",
       "postCode": "",
@@ -22921,8 +22921,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "31.0626196",
-      "yCoordinate": "35.0320347"
+      "xCoordinate": "31.073261",
+      "yCoordinate": "35.031686"
     },
     {
       "bankCode": 20,
@@ -26889,7 +26889,7 @@
       "bankName": "בנק מזרחי טפחות בע\"מ",
       "branchCode": "909",
       "branchName": "שיבולת",
-      "branchAddress": "קיבוץ בארות יצחק1  ",
+      "branchAddress": "בארות יצחק 1 ",
       "city": "בארות יצחק",
       "zip": "6090500",
       "postCode": "",
@@ -28363,22 +28363,22 @@
       "bankName": "בנק הבינלאומי הראשון לישראל בע\"מ",
       "branchCode": "95",
       "branchName": "גבעת שמואל",
-      "branchAddress": "בן גוריון 11 ",
-      "city": "גבעת שמואל",
-      "zip": "5401777",
+      "branchAddress": "העצמאות 65 קניון כפר גנים",
+      "city": "פתח תקווה",
+      "zip": "4937999",
       "postCode": "",
       "phone": "03-5304200",
       "fax": "",
       "freePhone": "*3009",
       "accessForDisabled": "כן",
-      "closedDay": "יום ו",
+      "closedDay": "יום א",
       "type": "מיוחד",
       "openDate": "02/11/1982",
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.077801",
-      "yCoordinate": "34.846382"
+      "xCoordinate": "32.074236",
+      "yCoordinate": "34.869623"
     },
     {
       "bankCode": 31,
@@ -30863,8 +30863,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.71",
-      "yCoordinate": "35.11"
+      "xCoordinate": "32.71127",
+      "yCoordinate": "35.109241"
     },
     {
       "bankCode": 46,
@@ -30885,8 +30885,8 @@
       "closingDate": "01/05/2021",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.5",
-      "yCoordinate": "35.06"
+      "xCoordinate": "32.498345",
+      "yCoordinate": "35.064394"
     },
     {
       "bankCode": 46,
@@ -30907,8 +30907,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "31.97",
-      "yCoordinate": "34.8"
+      "xCoordinate": "31.966582",
+      "yCoordinate": "34.803135"
     },
     {
       "bankCode": 46,
@@ -30929,8 +30929,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.17",
-      "yCoordinate": "34.93"
+      "xCoordinate": "32.17452",
+      "yCoordinate": "34.926562"
     },
     {
       "bankCode": 46,
@@ -30951,8 +30951,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.06",
-      "yCoordinate": "34.77"
+      "xCoordinate": "32.063467",
+      "yCoordinate": "34.773409"
     },
     {
       "bankCode": 46,
@@ -30973,8 +30973,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.93",
-      "yCoordinate": "35.33"
+      "xCoordinate": "32.928517",
+      "yCoordinate": "35.325563"
     },
     {
       "bankCode": 46,
@@ -30995,8 +30995,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.81",
-      "yCoordinate": "35.16"
+      "xCoordinate": "32.813855",
+      "yCoordinate": "35.156294"
     },
     {
       "bankCode": 46,
@@ -31017,18 +31017,18 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.08",
-      "yCoordinate": "34.82"
+      "xCoordinate": "32.079684",
+      "yCoordinate": "34.815098"
     },
     {
       "bankCode": 46,
       "bankName": "בנק מסד בע\"מ",
       "branchCode": "508",
       "branchName": "נתניה",
-      "branchAddress": "דיזנגוף 22 ",
+      "branchAddress": "רמז 14 ",
       "city": "נתניה",
-      "zip": "4240528",
-      "postCode": "1711",
+      "zip": "4243901",
+      "postCode": "",
       "phone": "09-8304200",
       "fax": "",
       "freePhone": "",
@@ -31039,8 +31039,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.33",
-      "yCoordinate": "34.85"
+      "xCoordinate": "32.327338",
+      "yCoordinate": "34.85402"
     },
     {
       "bankCode": 46,
@@ -31061,8 +31061,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.09",
-      "yCoordinate": "34.89"
+      "xCoordinate": "32.088042",
+      "yCoordinate": "34.887955"
     },
     {
       "bankCode": 46,
@@ -31083,8 +31083,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.9",
-      "yCoordinate": "35.09"
+      "xCoordinate": "32.899065",
+      "yCoordinate": "35.091623"
     },
     {
       "bankCode": 46,
@@ -31105,8 +31105,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.02",
-      "yCoordinate": "34.77"
+      "xCoordinate": "32.02296",
+      "yCoordinate": "34.773922"
     },
     {
       "bankCode": 46,
@@ -31127,8 +31127,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.69",
-      "yCoordinate": "35.29"
+      "xCoordinate": "32.690954",
+      "yCoordinate": "35.291996"
     },
     {
       "bankCode": 46,
@@ -31149,8 +31149,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "31.78",
-      "yCoordinate": "35.22"
+      "xCoordinate": "31.781171",
+      "yCoordinate": "35.219589"
     },
     {
       "bankCode": 46,
@@ -31171,8 +31171,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "31.79",
-      "yCoordinate": "34.64"
+      "xCoordinate": "31.794531",
+      "yCoordinate": "34.63935"
     },
     {
       "bankCode": 46,
@@ -31193,8 +31193,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.44",
-      "yCoordinate": "34.92"
+      "xCoordinate": "32.440134",
+      "yCoordinate": "34.918761"
     },
     {
       "bankCode": 46,
@@ -31215,8 +31215,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "31.91",
-      "yCoordinate": "35"
+      "xCoordinate": "31.907237",
+      "yCoordinate": "34.99788"
     },
     {
       "bankCode": 46,
@@ -31237,8 +31237,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.53",
-      "yCoordinate": "35.15"
+      "xCoordinate": "32.533984",
+      "yCoordinate": "35.148899"
     },
     {
       "bankCode": 46,
@@ -31259,8 +31259,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.77",
-      "yCoordinate": "35.05"
+      "xCoordinate": "32.771744",
+      "yCoordinate": "35.047909"
     },
     {
       "bankCode": 46,
@@ -31281,8 +31281,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "31.24",
-      "yCoordinate": "34.79"
+      "xCoordinate": "31.243114",
+      "yCoordinate": "34.791142"
     },
     {
       "bankCode": 46,
@@ -31303,8 +31303,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.08",
-      "yCoordinate": "34.8"
+      "xCoordinate": "32.08485",
+      "yCoordinate": "34.804227"
     },
     {
       "bankCode": 46,
@@ -31325,8 +31325,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.22",
-      "yCoordinate": "34.98"
+      "xCoordinate": "32.220201",
+      "yCoordinate": "34.982685"
     },
     {
       "bankCode": 46,
@@ -31347,8 +31347,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.86",
-      "yCoordinate": "35.31"
+      "xCoordinate": "32.860935",
+      "yCoordinate": "35.310289"
     },
     {
       "bankCode": 46,
@@ -31369,8 +31369,8 @@
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "32.8",
-      "yCoordinate": "35.24"
+      "xCoordinate": "32.802103",
+      "yCoordinate": "35.23857"
     },
     {
       "bankCode": 50,
@@ -31864,14 +31864,14 @@
       "branchAddress": "שמגר 21 5832105",
       "city": "ירושלים",
       "zip": "9446126",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095026",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
-      "closedDay": "",
+      "closedDay": "יום ש",
       "type": "רגיל",
-      "openDate": "23/03/1993",
+      "openDate": "23/03/1994",
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
@@ -31886,7 +31886,7 @@
       "branchAddress": "אגרון 30 7019900",
       "city": "ירושלים",
       "zip": "9419009",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095030",
       "fax": "",
       "freePhone": "*5727",
@@ -31896,9 +31896,9 @@
       "openDate": "01/01/1997",
       "closingDate": "",
       "mergeBank": "",
-      "mergeBranch": "",
+      "mergeBranch": "50",
       "xCoordinate": "31.777864",
-      "yCoordinate": "35.22188"
+      "yCoordinate": "35.2219"
     },
     {
       "bankCode": 54,
@@ -31952,14 +31952,14 @@
       "branchAddress": "שמגר 21 5832105",
       "city": "ירושלים",
       "zip": "9446126",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095026",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
       "closedDay": "",
       "type": "רגיל",
-      "openDate": "04/11/2013",
+      "openDate": "11/04/2013",
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "26",
@@ -31974,14 +31974,14 @@
       "branchAddress": "שמגר 21 5832105",
       "city": "ירושלים",
       "zip": "9446126",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095026",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
       "closedDay": "",
       "type": "מיוחד",
-      "openDate": "01/02/2015",
+      "openDate": "02/01/2015",
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "26",
@@ -31996,14 +31996,14 @@
       "branchAddress": "שמגר 21 5832105",
       "city": "ירושלים",
       "zip": "9446126",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095026",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
       "closedDay": "",
       "type": "מיוחד",
-      "openDate": "01/03/2015",
+      "openDate": "03/01/2015",
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "26",
@@ -32014,45 +32014,45 @@
       "bankCode": 54,
       "bankName": "בנק ירושלים בע\"מ",
       "branchCode": "40",
-      "branchName": "ביתר עלית",
-      "branchAddress": "ישמח ישראל 2 5832105",
-      "city": "ביתר עילית",
-      "zip": "9055702",
-      "postCode": "",
-      "phone": "076-8095026",
-      "fax": "",
-      "freePhone": "*5727",
-      "accessForDisabled": "כן",
-      "closedDay": "",
-      "type": "מיוחד",
-      "openDate": "11/01/2017",
-      "closingDate": "",
-      "mergeBank": "",
-      "mergeBranch": "",
-      "xCoordinate": "31.700469",
-      "yCoordinate": "35.107633"
-    },
-    {
-      "bankCode": 54,
-      "bankName": "בנק ירושלים בע\"מ",
-      "branchCode": "41",
       "branchName": "בית שמש",
       "branchAddress": "דרך יצחק רבין 2 9055702",
       "city": "בית שמש",
       "zip": "9958551",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095026",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
-      "closedDay": "",
+      "closedDay": "יום ש",
       "type": "מיוחד",
-      "openDate": "11/01/2017",
+      "openDate": "01/11/2017",
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
       "xCoordinate": "31.747398",
       "yCoordinate": "34.992779"
+    },
+    {
+      "bankCode": 54,
+      "bankName": "בנק ירושלים בע\"מ",
+      "branchCode": "41",
+      "branchName": "ביתר עלית",
+      "branchAddress": "ישמח ישראל 2 5832105",
+      "city": "ביתר עילית",
+      "zip": "9055702",
+      "postCode": "0",
+      "phone": "076-8095026",
+      "fax": "",
+      "freePhone": "*5727",
+      "accessForDisabled": "כן",
+      "closedDay": "יום ש",
+      "type": "מיוחד",
+      "openDate": "01/11/2017",
+      "closingDate": "",
+      "mergeBank": "",
+      "mergeBranch": "",
+      "xCoordinate": "31.700469",
+      "yCoordinate": "35.107633"
     },
     {
       "bankCode": 54,
@@ -32069,7 +32069,7 @@
       "accessForDisabled": "כן",
       "closedDay": "",
       "type": "מיוחד",
-      "openDate": "02/01/2014",
+      "openDate": "01/02/2014",
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "51",
@@ -32084,17 +32084,17 @@
       "branchAddress": "אגרון 30 7019900",
       "city": "ירושלים",
       "zip": "9419009",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095030",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
       "closedDay": "יום ש",
       "type": "רגיל",
-      "openDate": "01/02/1949",
+      "openDate": "02/01/1949",
       "closingDate": "",
       "mergeBank": "",
-      "mergeBranch": "",
+      "mergeBranch": "30",
       "xCoordinate": "31.777864",
       "yCoordinate": "35.22188"
     },
@@ -32106,14 +32106,14 @@
       "branchAddress": "אחד העם 21 7526724",
       "city": "תל אביב -יפו",
       "zip": "6515103",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095051",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
-      "closedDay": "",
+      "closedDay": "יום ש",
       "type": "רגיל",
-      "openDate": "01/02/1949",
+      "openDate": "02/01/1949",
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
@@ -32128,14 +32128,14 @@
       "branchAddress": "נתנזון  26 5151201",
       "city": "חיפה",
       "zip": "3309512",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8085052",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
-      "closedDay": "",
+      "closedDay": "יום ש",
       "type": "רגיל",
-      "openDate": "01/02/1949",
+      "openDate": "02/01/1949",
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
@@ -32150,12 +32150,12 @@
       "branchAddress": "הרצל 63 1620702",
       "city": "ראשון לציון",
       "zip": "7526724",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095053",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
-      "closedDay": "",
+      "closedDay": "יום ש",
       "type": "רגיל",
       "openDate": "23/11/1997",
       "closingDate": "",
@@ -32170,9 +32170,9 @@
       "branchCode": "54",
       "branchName": "עכו",
       "branchAddress": "דרך עכו 192 5964101",
-      "city": "קריית ביאליק",
+      "city": "כפר ביאליק",
       "zip": "2723206",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095063",
       "fax": "",
       "freePhone": "*5727",
@@ -32216,7 +32216,7 @@
       "branchAddress": "הרברט סמואל 2 3309512",
       "city": "ירושלים",
       "zip": "9463201",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095050",
       "fax": "",
       "freePhone": "*5727",
@@ -32235,22 +32235,22 @@
       "bankName": "בנק ירושלים בע\"מ",
       "branchCode": "61",
       "branchName": "אשדוד",
-      "branchAddress": "שדרות ירושלים 12 9446124",
+      "branchAddress": "שדרות ירושלים  12 9446124",
       "city": "אשדוד",
       "zip": "7752305",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095061",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
-      "closedDay": "",
+      "closedDay": "יום ש",
       "type": "רגיל",
-      "openDate": "02/01/1994",
+      "openDate": "01/02/1994",
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
-      "xCoordinate": "31.795298",
-      "yCoordinate": "34.640939"
+      "xCoordinate": "34.640939",
+      "yCoordinate": "31.795298"
     },
     {
       "bankCode": 54,
@@ -32258,9 +32258,9 @@
       "branchCode": "62",
       "branchName": "תרשיחא",
       "branchAddress": "דרך עכו 192 5964101",
-      "city": "קריית ביאליק",
+      "city": "כפר ביאליק",
       "zip": "2723206",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095063",
       "fax": "",
       "freePhone": "*5727",
@@ -32280,16 +32280,16 @@
       "branchCode": "63",
       "branchName": "קריון",
       "branchAddress": "דרך עכו 192 5964101",
-      "city": "קריית ביאליק",
+      "city": "כפר ביאליק",
       "zip": "2723206",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095063",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
-      "closedDay": "",
+      "closedDay": "יום ש",
       "type": "רגיל",
-      "openDate": "02/01/1994",
+      "openDate": "01/02/1994",
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
@@ -32302,7 +32302,7 @@
       "branchCode": "64",
       "branchName": "סכנין",
       "branchAddress": "מרג' אבן עמאר  2 2723206",
-      "city": "סח'נין",
+      "city": "נצרת",
       "zip": "1620702",
       "postCode": "0",
       "phone": "076-8095091",
@@ -32324,7 +32324,7 @@
       "branchCode": "65",
       "branchName": "אום אל פאחם",
       "branchAddress": "מרג' אבן עאמר 2 2723206",
-      "city": "אום אל-פחם",
+      "city": "נצרת",
       "zip": "1620702",
       "postCode": "0",
       "phone": "076-8095091",
@@ -32345,22 +32345,22 @@
       "bankName": "בנק ירושלים בע\"מ",
       "branchCode": "66",
       "branchName": "אשקלון",
-      "branchAddress": "שדרות ירושלים 12 9446124",
+      "branchAddress": "שדרות ירושלים  12 9446124",
       "city": "אשדוד",
       "zip": "7752305",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095061",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
       "closedDay": "",
       "type": "רגיל",
-      "openDate": "02/01/1994",
+      "openDate": "01/02/1994",
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "61",
-      "xCoordinate": "31.795298",
-      "yCoordinate": "34.640939"
+      "xCoordinate": "34.640939",
+      "yCoordinate": "31.795298"
     },
     {
       "bankCode": 54,
@@ -32370,7 +32370,7 @@
       "branchAddress": "הרצל 63 1620702",
       "city": "ראשון לציון",
       "zip": "7526724",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095053",
       "fax": "",
       "freePhone": "*5727",
@@ -32392,14 +32392,14 @@
       "branchAddress": "הרצל 63 1620702",
       "city": "ראשון לציון",
       "zip": "7526724",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095053",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
       "closedDay": "",
       "type": "רגיל",
-      "openDate": "04/11/2013",
+      "openDate": "11/04/2013",
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "53",
@@ -32414,14 +32414,14 @@
       "branchAddress": "הדסה 90 7019900",
       "city": "באר שבע",
       "zip": "8422133",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095069",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
-      "closedDay": "",
+      "closedDay": "יום ש",
       "type": "רגיל",
-      "openDate": "02/09/1997",
+      "openDate": "09/02/1997",
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
@@ -32458,14 +32458,14 @@
       "branchAddress": "הרברט סמואל 2 2165006",
       "city": "ירושלים",
       "zip": "9214905",
-      "postCode": "",
+      "postCode": "0",
       "phone": "*5727",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
       "closedDay": "",
       "type": "מיוחד",
-      "openDate": "01/07/2011",
+      "openDate": "07/01/2011",
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
@@ -32480,7 +32480,7 @@
       "branchAddress": "ההגנה 10 6515103",
       "city": "פתח תקווה",
       "zip": "4959103",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095093",
       "fax": "",
       "freePhone": "*5727",
@@ -32502,12 +32502,12 @@
       "branchAddress": "מרג' אבן עאמר 2 2723206",
       "city": "נצרת",
       "zip": "1620702",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095091",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
-      "closedDay": "",
+      "closedDay": "יום ש",
       "type": "מיוחד",
       "openDate": "17/11/2013",
       "closingDate": "",
@@ -32524,14 +32524,14 @@
       "branchAddress": "הרצל 45 7860105",
       "city": "נתניה",
       "zip": "4239015",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095092",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
-      "closedDay": "",
+      "closedDay": "יום ש",
       "type": "רגיל",
-      "openDate": "06/12/1994",
+      "openDate": "12/06/1994",
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
@@ -32566,7 +32566,7 @@
       "branchCode": "94",
       "branchName": "כרמיאל",
       "branchAddress": "דרך עכו 192 5964101",
-      "city": "כרמיאל",
+      "city": "כפר ביאליק",
       "zip": "2723206",
       "postCode": "0",
       "phone": "076-8095063",
@@ -32590,7 +32590,7 @@
       "branchAddress": "נתנזון  26 5151201",
       "city": "חיפה",
       "zip": "3309512",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8085052",
       "fax": "",
       "freePhone": "*5727",
@@ -32612,12 +32612,12 @@
       "branchAddress": "מעלה כרמון  קניון חוצות 5 9781608",
       "city": "כרמיאל",
       "zip": "2165005",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095096",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
-      "closedDay": "",
+      "closedDay": "יום ש",
       "type": "מיוחד",
       "openDate": "03/03/2013",
       "closingDate": "",
@@ -32634,12 +32634,12 @@
       "branchAddress": "אלמדינה 0 9214905",
       "city": "אום אל-פחם",
       "zip": "3001000",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095097",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
-      "closedDay": "",
+      "closedDay": "יום ש",
       "type": "מיוחד",
       "openDate": "17/11/2013",
       "closingDate": "",
@@ -32656,14 +32656,14 @@
       "branchAddress": "קניון סכנין 999 4082414",
       "city": "סח'נין",
       "zip": "3081000",
-      "postCode": "",
+      "postCode": "0",
       "phone": "076-8095098",
       "fax": "",
       "freePhone": "*5727",
       "accessForDisabled": "כן",
-      "closedDay": "",
+      "closedDay": "יום ש",
       "type": "מיוחד",
-      "openDate": "02/01/2014",
+      "openDate": "01/02/2014",
       "closingDate": "",
       "mergeBank": "",
       "mergeBranch": "",
