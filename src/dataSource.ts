@@ -1,6 +1,12 @@
-import data from "./bank-data.json";
+import d from "./bank-data.json";
 import {Bank, Branch} from "./types";
 import {convertBranchesDataFromIsraelBankCSV, fetchCSVFromIsraelBank} from "./functions";
+
+const dada:any = {
+    banks:[],
+    branches:[],
+    ...d,
+};
 
 /**
  * Load the data from `bank-data.json` file
@@ -16,8 +22,8 @@ class BankDataSource {
     branches: Branch[] = [];
 
     constructor() {
-        this.banks = (data as any).banks || [];
-        this.branches = (data as any).branches || [];
+        this.banks = data.banks;
+        this.branches = data.branches;
     }
 
     /**
