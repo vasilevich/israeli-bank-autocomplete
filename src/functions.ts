@@ -1,13 +1,13 @@
 import { Bank, Branch } from "./types";
 
-const DATABASE_URL = "https://www.boi.org.il/boi_files/Pikuah/snifim_he.csv";
+const DATABASE_URL = "/israeli_banks.csv";
 
 /**
  * Fetch CSV with branches details from Israel Bank
  */
 export async function fetchCSVFromIsraelBank(): Promise<string[][]> {
   const Parser = await import("papaparse");
-  const fetch: any = await import("node-fetch");
+  const fetch: any = fetch;
   //Fetch Israel bank branches CSV file
   const result = await fetch(DATABASE_URL);
   const buffer = await result.buffer();
