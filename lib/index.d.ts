@@ -17,4 +17,7 @@ export declare const getAllBanks: () => import("./types").Bank[];
 /**
  * Update Israel Bank data
  */
-export declare const fetchNewDataFromIsraelBank: () => Promise<void>;
+export declare const fetchNewDataFromIsraelBank: () => Promise<{
+    banks: import("./types").Bank[];
+    branches: Branch[];
+}>;

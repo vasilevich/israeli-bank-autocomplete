@@ -15,7 +15,10 @@ declare class BankDataSource {
     /**
      * Fetch new data from Israel Bank
      */
-    fetchNewDataFromIsraelBank(): Promise<void>;
+    fetchNewDataFromIsraelBank(): Promise<{
+        banks: Bank[];
+        branches: Branch[];
+    }>;
     /**
      * Get all banks
      */

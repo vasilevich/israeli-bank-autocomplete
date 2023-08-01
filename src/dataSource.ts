@@ -3,9 +3,8 @@ import {Bank, Branch} from "./types";
 import {convertBranchesDataFromIsraelBankCSV, fetchCSVFromIsraelBank} from "./functions";
 
 const data:any = {
-    banks:[],
-    branches:[],
-    ...d,
+    banks:(d as any).banks || [],
+    branches:(d as any).branches || []
 };
 
 /**
@@ -34,6 +33,7 @@ class BankDataSource {
         const {banks, branches} = await convertBranchesDataFromIsraelBankCSV(csv);
         this.banks = banks;
         this.branches = branches;
+		return {banks,branches};
     }
 
 

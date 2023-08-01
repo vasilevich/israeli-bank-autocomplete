@@ -1,21 +1,25 @@
 import { Bank, Branch } from "./types";
 
 const DATABASE_URL = "/israeli_banks.csv";
-
 /**
  * Fetch CSV with branches details from Israel Bank
  */
 export async function fetchCSVFromIsraelBank(): Promise<string[][]> {
-  const Parser = await import("papaparse");
-  const fetch: any = window.fetch;
-  //Fetch Israel bank branches CSV file
-  const result = await fetch(DATABASE_URL);
-  const buffer = await result.buffer();
-  const iconv = await import("iconv-lite");
-  const output = iconv.decode(buffer, "ISO-8859-8");
-  // @ts-ignore
-  return Parser.parse(output).data;
+  return new Promise(async (resolve, reject) => {
+	const response = await fetch(DATABASE_URL);
+	const blob = await response.blob();
+	const Parser = (await import("papaparse")).default;
+    const reader = new FileReader();
+    reader.onloadend = function() {
+      const textDecoder = new TextDecoder('ISO-8859-8');
+      const decodedData = textDecoder.decode(new Uint8Array(reader.result as ArrayBuffer));
+      resolve(Parser.parse(decodedData).data as any);
+    }
+    reader.onerror = () => reject(new Error("Failed to read the blob"));
+    reader.readAsArrayBuffer(blob);
+  });
 }
+
 
 /**
  * Convert Israel's Bank CSV to JSON data
