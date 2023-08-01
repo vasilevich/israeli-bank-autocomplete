@@ -16,8 +16,8 @@ class BankDataSource {
     branches: Branch[] = [];
 
     constructor() {
-        this.banks = data.banks;
-        this.branches = data.branches;
+        this.banks = (data as any).banks;
+        this.branches = (data as any).branches;
     }
 
     /**
