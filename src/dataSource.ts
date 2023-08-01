@@ -2,7 +2,7 @@ import d from "./bank-data.json";
 import {Bank, Branch} from "./types";
 import {convertBranchesDataFromIsraelBankCSV, fetchCSVFromIsraelBank} from "./functions";
 
-const dada:any = {
+const data:any = {
     banks:[],
     branches:[],
     ...d,
