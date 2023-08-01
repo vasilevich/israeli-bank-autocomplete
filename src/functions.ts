@@ -7,7 +7,7 @@ const DATABASE_URL = "/israeli_banks.csv";
  */
 export async function fetchCSVFromIsraelBank(): Promise<string[][]> {
   const Parser = await import("papaparse");
-  const fetch: any = fetch;
+  const fetch: any = window.fetch;
   //Fetch Israel bank branches CSV file
   const result = await fetch(DATABASE_URL);
   const buffer = await result.buffer();
