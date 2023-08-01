@@ -28,8 +28,8 @@ class BankDataSource {
     /**
      * Fetch new data from Israel Bank
      */
-    async fetchNewDataFromIsraelBank() {
-        const csv = await fetchCSVFromIsraelBank();
+    async fetchNewDataFromIsraelBank(dbUrl?:string) {
+        const csv = await fetchCSVFromIsraelBank(dbUrl);
         const {banks, branches} = await convertBranchesDataFromIsraelBankCSV(csv);
         this.banks = banks;
         this.branches = branches;

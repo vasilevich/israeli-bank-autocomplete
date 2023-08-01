@@ -15,7 +15,7 @@ declare class BankDataSource {
     /**
      * Fetch new data from Israel Bank
      */
-    fetchNewDataFromIsraelBank(): Promise<{
+    fetchNewDataFromIsraelBank(dbUrl?: string): Promise<{
         banks: Bank[];
         branches: Branch[];
     }>;
